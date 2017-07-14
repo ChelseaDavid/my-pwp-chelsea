@@ -1,2 +1,2 @@
 # my-pwp-chelsea
-created my pwp 
+Personal website for post class connections
