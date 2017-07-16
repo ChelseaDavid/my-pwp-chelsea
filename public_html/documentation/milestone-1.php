@@ -53,7 +53,7 @@
 			<li>User can then provide great detail regarding past/current jobs worked, and available as well as any "helpers" he
 				has worked with in the process.</li>
 			<li>Now that user has provided all necessary information regarding jobs worked and jobs available, they will then be
-			directed to an "Are you satisified with your enteries" page allowing the user to proof read all previous information
+			directed to an "Are you satisfied with your enteries" page allowing the user to proof read all previous information
 			entered.</li>
 			<li>Once user clicks submit, profile will be available to fellow tradesman to contact for and with work as well as potential
 			employers on larger scales of work. Typically Residential or Commercial employers through large corporations.</li>
